@@ -1,6 +1,6 @@
 # Statistical Analysis Portfolio Project
 # Demonstrating Experimental Design & Multivariate Analysis in R
-# Author: Kamran
+# Author: Ali Fadakar
 # Repository: https://github.com/kamran-1987/statistical-design-analysis
 
 # Load required libraries
