@@ -1,25 +1,28 @@
-# Statistical Design & Multivariate Analysis in R
+# Statistical Design & Data Analysis Portfolio
 
-A comprehensive demonstration of experimental design analysis and multivariate statistical techniques implemented in R.
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Expert-blue)
+![English](https://img.shields.io/badge/English-Fluent-brightgreen)
+
+A comprehensive demonstration of statistical programming expertise in R, featuring experimental design analysis and multivariate techniques.
 
 ## 📊 Project Overview
 
-This project showcases expertise in:
-- **Experimental Design Analysis** (Randomized Block, Latin Square, Factorial Designs)
-- **Multivariate Statistical Methods** (Factor Analysis, Cluster Analysis, Heatmaps)
-- **Professional R Programming** with reproducible research practices
+This portfolio project showcases advanced R programming skills with practical applications in:
+- **Experimental Design Analysis** (ANOVA, Randomized Block Designs)
+- **Multivariate Statistical Methods** (Factor Analysis, Cluster Analysis)
+- **Data Visualization** (Cluster plots, Diagnostic plots)
+- **Reproducible Research** (Professional code documentation)
 
 ## 🛠 Technical Skills Demonstrated
 
-### Programming & Statistics
-- **R Programming**: Data import, statistical modeling, visualization
-- **Statistical Methods**: ANOVA, Post-hoc testing, Factor Analysis, K-means Clustering
-- **Data Visualization**: Cluster plots, heatmaps, elbow method plots
-- **Experimental Design**: Randomized block, Latin square, factorial designs
+### Programming & Statistical Analysis
+- **R Programming**: Data manipulation, statistical modeling, visualization
+- **Statistical Methods**: Hypothesis testing, ANOVA, multivariate analysis
+- **Data Visualization**: Diagnostic plots, cluster analysis visualization
+- **Experimental Design**: Randomized block designs, post-hoc analysis
 
 ### R Packages Used
-- `agricolae`: For experimental design and post-hoc tests
-- `cluster` & `factoextra`: For clustering analysis and visualization
-- `readxl`: For data import from Excel files
-
-## 📁 Project Structure
+- `agricolae` - Experimental design and agricultural statistics
+- `cluster` & `factoextra` - Clustering analysis and visualization
+- `readxl` - Data import functionality
