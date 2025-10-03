@@ -26,3 +26,20 @@ This portfolio project showcases advanced R programming skills with practical ap
 - `agricolae` - Experimental design and agricultural statistics
 - `cluster` & `factoextra` - Clustering analysis and visualization
 - `readxl` - Data import functionality
+
+## 📁 Project Structure
+statistical-design-analysis/
+├── scripts/
+│ └── analysis.R # Main analysis script
+├── output/ # Generated visualizations and results
+├── data/ # Sample datasets
+├── README.md # Project documentation
+└── .gitignore # Git configuration
+
+## 🚀 Quick Start
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/kamran-1987/statistical-design-analysis.git
+
+   source("scripts/analysis.R")
